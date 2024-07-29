@@ -1,2 +1,6 @@
 # first_repo
-it is my first repository
+<h1>It is my first repository</h1>
+<br>
+<h2>Author-Souhardya</h2>
+
+
